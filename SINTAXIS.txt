@@ -1,0 +1,41 @@
+<p> = Párrafos
+shift + alt + f = acomodar texto
+<nav> = Navegaciones
+<header> = Encabezado del sitio o elemento
+<main> = Contenido Principal
+<footer> = Pie de página o Elemento
+siempre emepezar nuevo html como index.html
+escribir "html:5" para empezar con estructura de html 5
+<h1> del h1 al h6 se clasifica cual es mas importante </h1>
+lorem + tab = texto de lorem ibsu
+<link rel="preload" href="style.css" as="style"> = cargar mas rapido la pagina primero el css
+:nombre = custom propiedades
+https://necolas.github.io/normalize.css/ =normalize para sitio web
+
+ 
+    margin-top: 0;
+    margin-right: auto;   ==   margin: 0 auto 0 auto
+    margin-bottom: 0;
+    margin-left: auto;
+
+dos metodos iguales
+cuando tienes dos valores iguales que se repiten puedes eliminarlos (ejemplo margin: 0 auto)
+responsive web design responde bien a varios tipos de dispositivos
+
+                                     
+Flexbox: 1 dimension (row o colum)  ﾛ ﾛ ﾛ
+                                       
+CSS Grid 2 dimensiones  ﾛ ﾛﾛﾛ
+                        ﾛﾛﾛ ﾛ  /*Ejemplo box*/
+                        ﾛ  ﾛﾛ
+
+Flexbox: Para la alineacion o distribucion de elementos que estaran dentro de los contenedores
+usar en casos como : "LOGO"   ENLACE1 ENLACE2
+
+CSS Grid: Para definir el Layout de tu sitio web, como pueden ser las columnas o contenedores de elementos
+usar cuando tengas un diseño en el que tienes que distribuir diferentes areas |- - -|
+                                                                              |- - -|
+Distribuir elementos dentro de un contenedor= Flexbox
+Crear el layout= CSS Grid
+
+Floats: Usar nunca o cuanto debas crear un sitio web que se vea bien en internet Explorer 6 = nunca
